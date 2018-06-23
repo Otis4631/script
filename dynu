@@ -1,0 +1,1 @@
+URL='https://www.dynu.com/support/downloadfile/31'; FILE=/tmp/tmp.NMnfwQVRlB; wget https://www.dynu.com/support/downloadfile/31 -qO /tmp/tmp.SRvnehKSB1 && sudo dpkg -i /tmp/tmp.SRvnehKSB1;
